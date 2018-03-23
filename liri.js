@@ -108,6 +108,8 @@ if (input1 === "do-what-it-says"){
 
           if (dataArr[0] === 'spotify-this-song')
           spotifysearch();
+
+          //would as additional if statements to process more commands if needed
           
     })
 }
